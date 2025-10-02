@@ -1,2 +1,1 @@
-# UltimateMonkeModManager
-Made by 2TE. Uses terminal and needs adminstator.
+THIS IS MORE ADVANCED THEN BzzThe18ths MONKE MOD MANAGER! I RECOMMEND JUST A LITTLE BIT OF CODING KNOWLEDGE TO USE THIS.
